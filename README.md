@@ -32,7 +32,7 @@ Este é um montador simples em C para um processador inspirado na arquitetura Ne
 
 ## Estrutura do Projeto
 
-- `montador.c`: Código fonte do montador.
+- `main.c`: Código fonte do montador.
 - `Makefile`: Arquivo para compilação usando o comando `make`.
 - `teste.txt`: Arquivo assembly de exemplo (deve ser criado conforme suas necessidades).
 - `teste.mem`: Arquivo de saída gerado após a montagem.
