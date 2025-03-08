@@ -43,9 +43,11 @@ Para compilar basta executar:
 
 ```bash
 make
+```
 
 ```bash
 make run
+```
 
 Isso compila o código e gera o executável montador.
 
